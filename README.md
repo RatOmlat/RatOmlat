@@ -4,7 +4,7 @@
 <br>
 <br>
 
-## $${\color{yellow}WELCOME \space \color{gold}TO}$$
+### $${\color{yellow}WELCOME \space \color{yellow}TO}$$
 
 <br>
 <p align="center"
