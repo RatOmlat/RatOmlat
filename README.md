@@ -1,5 +1,5 @@
 <img align="left" width="300" height="455" alt="outlast trials_ project judas (poster)" src="https://github.com/user-attachments/assets/edee3797-419f-40a5-915d-15d8205c5a4a" />
-<img width="714" height="1003" alt="miniteet_tmieu (@doremewing) on X" src="https://github.com/user-attachments/assets/bfb6eff0-a77b-4f3c-9f29-bed7d62f6ede" />
+<img align="right" width="300" height="455" alt="miniteet_tmieu (@doremewing) on X" src="https://github.com/user-attachments/assets/bfb6eff0-a77b-4f3c-9f29-bed7d62f6ede" />
 
 <br>
 <br>
