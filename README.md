@@ -8,7 +8,7 @@
 
 $${\color{green}⌜ \space \space \color{green}WELCOME \space \color{green}TO \space \space \color{green}⌝}$$
 $${\color{green}⌞\space \space \space \space \space \color{green}THE \space \color{green}TRIAL \space \space \space \space \space \space \color{green}⌟}$$
----
+
 <br>
 <br>
 <br>
