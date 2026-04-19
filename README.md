@@ -2,7 +2,7 @@
 <img align="right" width="280" height="435" alt="miniteet_tmieu (@doremewing) on X" src="https://github.com/user-attachments/assets/bfb6eff0-a77b-4f3c-9f29-bed7d62f6ede" />
 <br>
 
-<big $${\color{yellow}WELCOME \space \color{yellow}TO}$$
+<big> $${\color{yellow}WELCOME \space \color{yellow}TO}$$ <\big>
 <big $${\color{yellow}THE \space \color{yellow}TRIAL}$$
 <br>
 <p align="center"
