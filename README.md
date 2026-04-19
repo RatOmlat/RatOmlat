@@ -5,7 +5,7 @@
 <br>
 <br>
 
-$${\color{yellow}⌜ \space \space WELCOME \space TO \space \space ⌝}$$
+$${\color{green}⌜ \space \space WELCOME \space TO \space \space ⌝}$$
 $${\color{yellow}⌞\space \space \space \space \space THE \space TRIAL \space \space \space \space \space \space ⌟}$$
 <br>
 <br>
