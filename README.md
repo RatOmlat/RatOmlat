@@ -3,8 +3,8 @@
 
 <br>
 <br>
-
-# $${ \space \space \space \space \space\space \space \space \space \space \space \space \space \space\color{gold}WELCOME \space \color{gold}TO}$$
+<p align="center"
+$${ \space \space \space \space \space\space \space \space \space \space \space \space \space \space\color{gold}WELCOME \space \color{gold}TO}$$
 
 <br>
 <p align="center"
