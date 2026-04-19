@@ -5,7 +5,7 @@
 <br>
 <p align="center"
   
-$${ \space \space \space \space \space\space \space \space \space \space \space \space \space \space\color{gold}WELCOME \space \color{gold}TO}$$
+# $${\color{gold}WELCOME \space \color{gold}TO}$$
 
 <br>
 <p align="center"
