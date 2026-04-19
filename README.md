@@ -5,8 +5,8 @@
 <br>
 <br>
 
-$${\color{green}⌜ \space \space WELCOME \space TO \space \space ⌝}$$
-$${\color{yellow}⌞\space \space \space \space \space THE \space TRIAL \space \space \space \space \space \space ⌟}$$
+$${\color{green}⌜ \space \space \color{yellow}WELCOME \space \color{yellow}TO \space \space \color{green}⌝}$$
+$${\color{green}⌞\space \space \space \space \space \color{yellow}THE \space \color{yellow}TRIAL \space \space \space \space \space \space \color{green}⌟}$$
 <br>
 <br>
 
