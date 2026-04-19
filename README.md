@@ -5,7 +5,7 @@
 <br>
 <br>
 
-$${\color{yellow}WELCOME \space \color{yellow}TO}$$
+$${\color{yellow}⌜ \space \space WELCOME \space \color{yellow}TO \space \space ⌝}$$
 $${\color{yellow}THE \space \color{yellow}TRIAL}$$
 <br>
 <p align="center"
