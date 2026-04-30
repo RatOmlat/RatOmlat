@@ -22,4 +22,6 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
  <br>HNA : CHOLERIC
  <br>
  <br>MENTAL HEALTH : < CLASSIFIED >
- 
+ <br>
+ <img width="2040" height="100" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
+
