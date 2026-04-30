@@ -26,7 +26,7 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
  <br>MENTAL HEALTH : < CLASSIFIED >
  
 <br>
-
+<img width="1000" height="100" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" src="https://github.com/RatOmlat/RatOmlat/blob/main/tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" />
 
 <p align="left"
  
