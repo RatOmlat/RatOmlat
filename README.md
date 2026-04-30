@@ -27,7 +27,7 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
  
 <br>
 <br>
-<img width="900" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" src="https://github.com/RatOmlat/RatOmlat/blob/main/tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" />
+<img align="right" width="280" height="435" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" src="https://github.com/RatOmlat/RatOmlat/blob/main/tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" />
 
 <p align="left"
  
@@ -54,7 +54,7 @@ COPY OF REAGENT NOTE
 <br>
 <img width="600" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 <br>
-<img width="337" height="271" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/610c8fea-66ed-4716-8a67-0ff47dbc8bbd" />
+<img width="377" height="271" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/610c8fea-66ed-4716-8a67-0ff47dbc8bbd" />
 <br>
 <img width="600" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
