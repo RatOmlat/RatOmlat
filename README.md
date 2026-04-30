@@ -27,7 +27,6 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
  
 <br>
 
-<img width="2040" height="100" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
 <p align="left"
  
@@ -46,5 +45,5 @@ COPY OF REAGENT NOTE
 <br>• Любимый цвет - желный! :3
 <br>• Ужасная память.
 
-<p align="right"
-<img width="654" height="502" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/13e589d9-d93d-403d-8d75-d4e8df875a9c" />
+<img width="2040" height="100" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
+
