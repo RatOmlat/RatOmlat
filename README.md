@@ -47,4 +47,4 @@ COPY OF REAGENT NOTE
 <br>• Ужасная память.
 
 <p align="right"
-<img width="654" height="502" alt="Снимок экрана 2026-04-30 122836" src="https://github.com/user-attachments/assets/8741c811-502b-4510-90f6-893880502461" />
+
