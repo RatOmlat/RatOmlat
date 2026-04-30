@@ -97,6 +97,5 @@ COPY OF REAGENT NOTE
 <p align="right"
  
 <img width="330" height="230" alt="fb85f6771242868f1d44f48f20744f7a" src="https://github.com/user-attachments/assets/60ba8d30-15c1-4889-9f91-e2ef0d56dd73" />
-
-!Я и мой
-[друн](https://sbv6v.carrd.co/)
+<br>Я и мой
+[друн](https://github.com/sbv6v/)
