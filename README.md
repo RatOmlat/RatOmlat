@@ -38,7 +38,8 @@ COPY OF REAGENT NOTE
 <br>Ещё не выбрал лол.
 <br>  Не против познакомится или пообщатся!
 
-<img width="400" height="60" alt="tumblr_dccdd883e6b21a2a15f48663f905eb23_4ba0cc0d_400" src="https://github.com/user-attachments/assets/cc7c6ca4-3da6-480d-b0af-8b9306bccdc0" />
+
+<img width="150" height="21" alt="tumblr_e3b39e3d511e5cbf53a588eee58b096a_1d374536_250" src="https://github.com/user-attachments/assets/e1885e21-acd9-455c-8958-3352d40f3327" />
 
 
 
