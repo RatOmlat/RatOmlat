@@ -11,5 +11,7 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
 ---
 <div align="center">
  REAGENT № : 0001505
-
+ DATE OF APPEARANCE : JULY 6 20**
+ LANGUAGE : RU; EN; ES
+ HNA : CHOLERIC
 
