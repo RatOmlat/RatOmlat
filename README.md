@@ -41,11 +41,13 @@ COPY OF REAGENT NOTE
  <p align="center"
   
 <br>
-<img width="800" height="20" alt="tumblr_e3b39e3d511e5cbf53a588eee58b096a_1d374536_250" src="https://github.com/user-attachments/assets/e1885e21-acd9-455c-8958-3352d40f3327" />
+<img width="700" height="30" alt="tumblr_dccdd883e6b21a2a15f48663f905eb23_4ba0cc0d_400" src="https://github.com/user-attachments/assets/9aa558c1-4123-46e1-bc16-37d79b87c824" />
 <br>
-<img width="400" height="200" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/610c8fea-66ed-4716-8a67-0ff47dbc8bbd" />
+<img width="400" height="170" alt="PATHOLOGIC 2025-10-30 221536" src="https://github.com/user-attachments/assets/882b74ea-062d-4371-9f76-cb5449fcbe6a" />
 <br>
-<img width="800" height="20" alt="tumblr_e3b39e3d511e5cbf53a588eee58b096a_1d374536_250" src="https://github.com/user-attachments/assets/e1885e21-acd9-455c-8958-3352d40f3327" />
+<img width="700" height="30" alt="tumblr_dccdd883e6b21a2a15f48663f905eb23_4ba0cc0d_400" src="https://github.com/user-attachments/assets/9aa558c1-4123-46e1-bc16-37d79b87c824" />
+
+
 
 
 # О себе?
@@ -59,11 +61,11 @@ COPY OF REAGENT NOTE
 <p align="center"
  
 <br>
-<img width="800" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
+<img width="700" height="30" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 <br>
-<img width="400" height="170" alt="Снимок экрана 2025-10-30 221536" src="https://github.com/user-attachments/assets/fde30b69-0673-46b3-89e3-a9d6585353e7" />
+<img width="400" height="200" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/610c8fea-66ed-4716-8a67-0ff47dbc8bbd" />
 <br>
-<img width="800" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
+<img width="700" height="30" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
 # Сокращённый список любимых игр.
 <br>• Хорроры: серия игр Outlast, Psychobreak(The Evil Within), (Sons of) The Forest, Subnautica?
