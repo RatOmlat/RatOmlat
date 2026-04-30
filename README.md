@@ -38,10 +38,14 @@ COPY OF REAGENT NOTE
 <br>Ещё не выбрал лол.
 <br>  Не против познакомится или пообщатся!
 
-
-<img width="150" height="21" alt="tumblr_e3b39e3d511e5cbf53a588eee58b096a_1d374536_250" src="https://github.com/user-attachments/assets/e1885e21-acd9-455c-8958-3352d40f3327" />
-
-
+ <p align="center"
+  
+<br>
+<img width="600" height="30" alt="tumblr_e3b39e3d511e5cbf53a588eee58b096a_1d374536_250" src="https://github.com/user-attachments/assets/e1885e21-acd9-455c-8958-3352d40f3327" />
+<br>
+<img width="377" height="271" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/610c8fea-66ed-4716-8a67-0ff47dbc8bbd" />
+<br>
+<img width="600" height="30" alt="tumblr_e3b39e3d511e5cbf53a588eee58b096a_1d374536_250" src="https://github.com/user-attachments/assets/e1885e21-acd9-455c-8958-3352d40f3327" />
 
 
 # О себе?
@@ -57,7 +61,7 @@ COPY OF REAGENT NOTE
 <br>
 <img width="600" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 <br>
-<img width="377" height="271" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/610c8fea-66ed-4716-8a67-0ff47dbc8bbd" />
+<img width="1919" height="706" alt="Снимок экрана 2025-10-30 221536" src="https://github.com/user-attachments/assets/fde30b69-0673-46b3-89e3-a9d6585353e7" />
 <br>
 <img width="600" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
