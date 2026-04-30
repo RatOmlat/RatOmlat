@@ -76,8 +76,16 @@ COPY OF REAGENT NOTE
 <br>• Головоломки: серия игр Portal, The Stanley Parable, серия игр The Talos Principle, Viewfinder, The Last Guardian, World of Goo, Little Inferno, Papers Please, Superliminal, Faraway: Puzzle Escape.
 <br>• Интерактивное кино: Detroid, Havy Rain, TWD, LIS2.
 <br>**Ещё ищу тимейтов в Apex Legends или The Outlast Trials(и мб в Cult of the Lamb если только у вас имеется..). Ранг и скил не важен, главное юмор и ваше желание.**
+<br>
+<p align="center"
 
 <br>
+<img width="700" height="30" alt="tumblr_e1e0a54a178fa4592b04c1cc278fbc48_4de23f69_400" src="https://github.com/user-attachments/assets/040fb201-57e0-4bee-b2a6-45cac2dfcf86" />
+<br>
+<img width="450" height="240" alt="tumblr_772e78ff4f87fadb15da8e92ed569630_79b346ae_400" src="https://github.com/user-attachments/assets/a61a2b92-07d2-4de4-a165-026ec5a6c195" />
+<br>
+<img width="700" height="30" alt="tumblr_e1e0a54a178fa4592b04c1cc278fbc48_4de23f69_400" src="https://github.com/user-attachments/assets/040fb201-57e0-4bee-b2a6-45cac2dfcf86" />
+<br> всё. :0
 <br>
 <br>
 <br>
