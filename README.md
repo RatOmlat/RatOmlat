@@ -12,14 +12,9 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
 <div align="center">
  
  <br>REAGENT № : 0001505
- 
  <br>NACENCE : JULY 6 20**
- 
  <br>LANGUAGE : RU; EN; ES
- 
  <br>STATUS : NOT TAKEN; ATHEIST
- 
  <br>HNA : CHOLERIC
-
  <br>MENTAL HEALTH : < CLASSIFIED >
  
