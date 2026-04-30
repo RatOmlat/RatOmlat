@@ -10,11 +10,11 @@ $${\color{green}\space \space \space ⌜ \space \space \color{green}WELCOME \spa
 $${\color{green}\space \space \space ⌞\space \space \space \space \space \color{green}THE \space \color{green}TRIAL \space \space \space \space \space \space \color{green}⌟}$$
 ---
 <div align="center">
- <br REAGENT № : 0001505
- <br>
- <br DATE OF APPEARANCE : JULY 6 20**
- <br>
- <br LANGUAGE : RU; EN; ES
- <br>
- <br HNA : CHOLERIC
+ <br>REAGENT № : 0001505
+ 
+ <br>DATE OF APPEARANCE : JULY 6 20**
+ 
+ <br>LANGUAGE : RU; EN; ES
+
+ <br>HNA : CHOLERIC
 
