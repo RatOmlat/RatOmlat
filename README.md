@@ -46,6 +46,5 @@ COPY OF REAGENT NOTE
 <br>• Любимый цвет - жёлный! :3
 <br>• Ужасная память.
 
-<p align="left"
-<img width="600" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
+<img width="600" height="20" align="center" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
