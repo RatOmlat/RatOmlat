@@ -49,6 +49,8 @@ COPY OF REAGENT NOTE
  
 <br>
 <img width="600" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
+<img width="654" height="502" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/610c8fea-66ed-4716-8a67-0ff47dbc8bbd" />
+<img width="600" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
 # **Сокращённый список любимых игр.**
-<br>• Хорроры: [Outlast](urlhttps://ru.wikipedia.org/wiki/Outlast_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80))
+<br>• Хорроры: [Outlast](url=https://ru.wikipedia.org/wiki/Outlast_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80))
