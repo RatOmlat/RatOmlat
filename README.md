@@ -7,7 +7,7 @@
 $${\color{green}\space \space \space ⌜ \space \space \color{green}WELCOME \space \color{green}TO \space \space \color{green}⌝}$$
 $${\color{green}\space \space \space ⌞\space \space \space \space \space \color{green}THE \space \color{green}TRIAL \space \space \space \space \space \space \color{green}⌟}$$
 ---
-<div align="center">
+<p align="center"
  MURCOFF CASE FILES
  <br>COPY
  
@@ -26,8 +26,7 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
 <br>
 
 <img width="2040" height="100" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
-<p align="left"
-
+<div align="left">
 COPY OF REAGENT NOTE
 
 <br>##Здравствуй! меня зовут... эм, другие меня зовут *некрыс!* или рат омлат. или омлет.. или крыса... 
