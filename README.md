@@ -11,17 +11,17 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
 ---
 <div align="center">
  MURCOFF CASE FILES
- COPY
+ <br>COPY
  
  <br>REAGENT № : 0001505
- 
+ <br>
  <br>NACENCE : JULY 6 20**
- 
+ <br>
  <br>LANGUAGE : RU; EN; ES
- 
+ <br>
  <br>STATUS : NOT TAKEN; ATHEIST
- 
+ <br>
  <br>HNA : CHOLERIC
- 
+ <br>
  <br>MENTAL HEALTH : < CLASSIFIED >
  
