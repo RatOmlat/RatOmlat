@@ -10,7 +10,6 @@ $${\color{green}\space \space \space ⌜ \space \space \color{green}WELCOME \spa
 $${\color{green}\space \space \space ⌞\space \space \space \space \space \color{green}THE \space \color{green}TRIAL \space \space \space \space \space \space \color{green}⌟}$$
 ---
 <div align="center">
- lol
- парор
+ REAGENT № : 0001505
 
 
