@@ -68,6 +68,7 @@ COPY OF REAGENT NOTE
 # Сокращённый список любимых игр.
 <br>• Хорроры: серия игр Outlast, Psychobreak(The Evil Within), (Sons of) The Forest, Subnautica?
 <br>• Шутеры:
+<br>• Стелсы:
 <br>• Открытые миры:
 <br>• Инди:
 <br>• Головоломки :
