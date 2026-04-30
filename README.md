@@ -69,11 +69,11 @@ COPY OF REAGENT NOTE
 
 # Сокращённый список любимых игр.
 <br>• Хорроры: серия игр Outlast, Psychobreak(The Evil Within), (Sons of) The Forest, Yuppie Psycho, Sally Face, Fran Bow, Subnautica?
-<br>• Шутеры: COD, DOOM, Apex Legends, Atomic Heart, DMC, серия игр Metro
-<br>• Стелсы: серия игр Metal gear, (Tom Clancy’s)Splinter Cell, Deus Ex, Party Hard
-<br>• Открытые миры: Horizon, Ghost of Tsushima, Watch Dogs, Cyberpunk 2077, Dying Light
-<br>• Инди: серия игр Pathologic, Daniel Mullins Games, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats
-<br>• Головоломки: Portal, Viewfinder, The Last Guardian, Papers Please, Superliminal
+<br>• Шутеры: COD, DOOM, Apex Legends, Atomic Heart, DMC, серия игр Metro.
+<br>• Стелсы: серия игр Metal gear, (Tom Clancy’s)Splinter Cell, Deus Ex, Party Hard.
+<br>• Открытые миры: Horizon, Ghost of Tsushima, Watch Dogs, Cyberpunk 2077, Dying Light.
+<br>• Инди: серия игр Pathologic, Daniel Mullins Games, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats.
+<br>• Головоломки: Portal, Viewfinder, The Last Guardian, Papers Please, Superliminal.
 <br>• Интерактивное кино: Detroid, Havy Rain, TWD, LIS2.
 <br>**Ещё ищу тимейтов в Apex Legends или The Outlast Trials(и мб в Cult of the Lamb если только у вас имеется..). Ранг и скил не важен, главное юмор и ваше желание.**
 
