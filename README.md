@@ -10,11 +10,18 @@ $${\color{green}\space \space \space ⌜ \space \space \color{green}WELCOME \spa
 $${\color{green}\space \space \space ⌞\space \space \space \space \space \color{green}THE \space \color{green}TRIAL \space \space \space \space \space \space \color{green}⌟}$$
 ---
 <div align="center">
+ MURCOFF CASE FILES
+ COPY
  
  <br>REAGENT № : 0001505
+ 
  <br>NACENCE : JULY 6 20**
+ 
  <br>LANGUAGE : RU; EN; ES
+ 
  <br>STATUS : NOT TAKEN; ATHEIST
+ 
  <br>HNA : CHOLERIC
+ 
  <br>MENTAL HEALTH : < CLASSIFIED >
  
