@@ -33,12 +33,13 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
  
 COPY OF REAGENT NOTE
  
-**Здравствуй!**
-<br>Моё имя... эм, другие меня зовут **Некрыс!** Или Рат Омлат. Или Омлет.. Или Крыса...
+# Здравствуй!
+<br>  Моё имя... эм, другие меня зовут **Некрыс!** Или Рат Омлат. Или Омлет.. Или Крыса...
 <br>Ещё не выбрал лол.
-<br>Не против познакомится или пообщатся!
+<br>  Не против познакомится или пообщатся!
 
-<br>**О себе?** Не люблю говорить о себе. Мне больше нравится слушать других. Но так и быть.
+# О себе?
+<br>  Не люблю говорить о себе. Мне больше нравится слушать других. Но так и быть.
 <br>• Дружелюбный, вежливый, замкнутый, бываю агресивный.
 <br>• Люблю игры! PS4 геймер/играю с геймпада и "слабыйноут" геймер.
 <br>• Рисую. По большей части для себя.
@@ -49,10 +50,12 @@ COPY OF REAGENT NOTE
  
 <br>
 <img width="600" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
-<img width="654" height="502" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/610c8fea-66ed-4716-8a67-0ff47dbc8bbd" />
+<br>
+<img width="347" height="271" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/610c8fea-66ed-4716-8a67-0ff47dbc8bbd" />
+<br>
 <img width="600" height="20" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
-# **Сокращённый список любимых игр.**
+# Сокращённый список любимых игр.
 <br>• Хорроры: серия игр Outlast, Psychobreak(The Evil Within), (Sons of) The Forest, Subnautica?
 <br>• Шутеры:
 <br>• Открытые миры:
