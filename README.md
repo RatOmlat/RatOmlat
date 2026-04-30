@@ -26,8 +26,8 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
  <br>MENTAL HEALTH : < CLASSIFIED >
  
 <br>
-
-<img width="600" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" src="https://github.com/RatOmlat/RatOmlat/blob/main/tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" />
+<br>
+<img width="900" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" src="https://github.com/RatOmlat/RatOmlat/blob/main/tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" />
 
 <p align="left"
  
@@ -46,5 +46,5 @@ COPY OF REAGENT NOTE
 <br>• Любимый цвет - желный! :3
 <br>• Ужасная память.
 
-<img width="2040" height="100" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
+<img width="500" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
