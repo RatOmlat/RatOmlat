@@ -47,4 +47,4 @@ COPY OF REAGENT NOTE
 <br>• Ужасная память.
 
 <p align="right"
-
+<img width="654" height="502" alt="BAD TRIP 2026-04-30 122836" src="https://github.com/user-attachments/assets/13e589d9-d93d-403d-8d75-d4e8df875a9c" />
