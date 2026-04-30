@@ -26,7 +26,8 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
  <br>MENTAL HEALTH : < CLASSIFIED >
  
 <br>
-<img width="2040" height="100" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" src="https://github.com/RatOmlat/RatOmlat/blob/main/tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" />
+
+<img width="600" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" src="https://github.com/RatOmlat/RatOmlat/blob/main/tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" />
 
 <p align="left"
  
@@ -35,7 +36,7 @@ COPY OF REAGENT NOTE
 # Здравствуй!
 <br>Меня зовут... эм, другие меня зовут **некрыс!** Или рат омлат. Или омлет.. Или крыса...
 <br>Ещё не выбрал лол.
-## Я считаю себя интровертом, но в компании 2-3 человек чувствую себя нормально. Непротив познакомится или пообщатся.
+Н епротив познакомится или пообщатся!
 
 <br>О себе? Не люблю говорить о себе, но мне интересно слушать других. Ну так и быть.
 <br>• Дружелюбный, вежливый, замкнутый, бываю агресивный.
