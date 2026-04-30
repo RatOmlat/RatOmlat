@@ -96,6 +96,8 @@ COPY OF REAGENT NOTE
 <br>
 <p align="right"
  
-<img width="330" height="230" alt="fb85f6771242868f1d44f48f20744f7a" src="https://github.com/user-attachments/assets/60ba8d30-15c1-4889-9f91-e2ef0d56dd73" />
-<br>Я и мой
-[друн](https://github.com/sbv6v/)
+<br><img width="330" height="230" alt="fb85f6771242868f1d44f48f20744f7a" src="https://github.com/user-attachments/assets/60ba8d30-15c1-4889-9f91-e2ef0d56dd73" />
+<br><img width="80" height="40" alt="Снимок экрана 2026-04-30 181447" src="https://github.com/user-attachments/assets/03820e80-f257-4ad6-a76d-0fb3c1d15d48" />
+<br>Я и мой 
+[друн](https://sbv6v.carrd.co/)
+
