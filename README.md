@@ -27,7 +27,7 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
  
 <br>
 <br>
-<img align="right" width="280" height="435" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" src="https://github.com/RatOmlat/RatOmlat/blob/main/tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" />
+<img align="center" width="800" height="50" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" src="https://github.com/RatOmlat/RatOmlat/blob/main/tumblr_e9e2b5f5063a1d87092054480fd66944_672d8b33_500.gif" />
 
 <p align="left"
  
@@ -38,7 +38,8 @@ COPY OF REAGENT NOTE
 <br>Ещё не выбрал лол.
 <br>  Не против познакомится или пообщатся!
 
-<img width="400" height="60" alt="tumblr_dccdd883e6b21a2a15f48663f905eb23_4ba0cc0d_400 (1)" src="https://github.com/user-attachments/assets/42fbab03-85c7-4108-ad97-9a2ca9cfd1ee" />
+
+<img width="400" height="60" alt="tumblr_dccdd883e6b21a2a15f48663f905eb23_4ba0cc0d_400 (1)" src="https://github.com/user-attachments/assets/4e8c9c10-a0b0-4941-a952-c2ed383a2dac" />
 
 
 
