@@ -12,7 +12,7 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
 
  <br>REAGENT № : 0001505
  
- <br>DATE OF APPEARANCE : JULY 6 20**
+ <br>NACENCE : JULY 6 20**
  
  <br>LANGUAGE : RU; EN; ES
 
