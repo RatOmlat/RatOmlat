@@ -86,7 +86,7 @@ COPY OF REAGENT NOTE
 <br>
 <img width="700" height="30" alt="tumblr_e1e0a54a178fa4592b04c1cc278fbc48_4de23f69_400" src="https://github.com/user-attachments/assets/040fb201-57e0-4bee-b2a6-45cac2dfcf86" />
 <br> всё. :0
-<br>
+<br> ![](https://komarev.com/ghpvc/?username=RatOmlat&color=8ba6bb)
 <br>
 <br>
 <br>
