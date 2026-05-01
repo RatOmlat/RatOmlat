@@ -21,7 +21,7 @@ $${\color{green}\space \space \space ⌞\space \space \space \space \space \colo
  <br>
  <br>STATUS : NOT TAKEN; ATHEIST
  <br>
- <br>HNA : CHOLERIC
+ <br>TEMPERAMENT TYPE : CHOLERIC
  <br>
  <br>MENTAL HEALTH : < CLASSIFIED >
  
