@@ -67,7 +67,7 @@ COPY OF REAGENT NOTE
 <br>
 <img width="700" height="30" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
-# Сокращённый список любимых игр.
+# Список любимых игр.
 <br>• Хорроры: серия игр Outlast, Psychobreak(The Evil Within), (Sons of) The Forest, Endoparasitic, Yuppie Psycho, Sally Face, Fran Bow, Subnautica?
 <br>• Шутеры: COD, DOOM, Apex Legends, Titanfall, Atomic Heart, DMC, серия игр Metro.
 <br>• Стелсы: серия игр Metal gear, (Tom Clancy’s)Splinter Cell, Deus Ex, Party Hard, Militsioner.
