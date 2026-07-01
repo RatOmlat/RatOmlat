@@ -95,6 +95,7 @@ COPY OF REAGENT NOTE
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=231f1f&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=29652a&bar_color_cover=false">
   </a>
 </p>
+
 [_Мой Спотик_](https://open.spotify.com/user/31xtutu44dlq7mx4wc44resjmqvu)
 
 
