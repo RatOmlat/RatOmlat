@@ -82,10 +82,11 @@ COPY OF REAGENT NOTE
 <br>
 <img width="700" height="30" alt="tumblr_e1e0a54a178fa4592b04c1cc278fbc48_4de23f69_400" src="https://github.com/user-attachments/assets/040fb201-57e0-4bee-b2a6-45cac2dfcf86" />
 <br>
-<img width="450" height="240" alt="tumblr_772e78ff4f87fadb15da8e92ed569630_79b346ae_400" src="https://github.com/user-attachments/assets/a61a2b92-07d2-4de4-a165-026ec5a6c195" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=231f1f&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=29652a&bar_color_cover=false">
 <br>
 <img width="700" height="30" alt="tumblr_e1e0a54a178fa4592b04c1cc278fbc48_4de23f69_400" src="https://github.com/user-attachments/assets/040fb201-57e0-4bee-b2a6-45cac2dfcf86" />
-всё. :0
+<br>всё. :0
 
 
 
@@ -94,12 +95,9 @@ COPY OF REAGENT NOTE
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=231f1f&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=29652a&bar_color_cover=false">
   </a>
 </p>
-[_Мой Спотик_](https://open.spotify.com/user/31xtutu44dlq7mx4wc44resjmqvu)
-
+ 
 
 <p align="right"
-
-
  
 <br><img width="330" height="230" alt="fb85f6771242868f1d44f48f20744f7a" src="https://github.com/user-attachments/assets/60ba8d30-15c1-4889-9f91-e2ef0d56dd73" />
 <br><img width="80" height="40" alt="Снимок экрана 2026-04-30 181447" src="https://github.com/user-attachments/assets/03820e80-f257-4ad6-a76d-0fb3c1d15d48" />
