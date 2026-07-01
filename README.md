@@ -103,7 +103,15 @@ COPY OF REAGENT NOTE
 <br>
 <br>
 <br>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&cover_image=true&theme=default&show_offline=false&background_color=231f1f&interchange=false&profanity=false&hide_remaster=false&bar_color=29652a&bar_color_cover=false">
+  </a>
+</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&cover_image=true&theme=default&show_offline=false&background_color=231f1f&interchange=false&profanity=false&hide_remaster=false&bar_color=29652a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&redirect=true)
 <p align="right"
+
+
  
 <br><img width="330" height="230" alt="fb85f6771242868f1d44f48f20744f7a" src="https://github.com/user-attachments/assets/60ba8d30-15c1-4889-9f91-e2ef0d56dd73" />
 <br><img width="80" height="40" alt="Снимок экрана 2026-04-30 181447" src="https://github.com/user-attachments/assets/03820e80-f257-4ad6-a76d-0fb3c1d15d48" />
