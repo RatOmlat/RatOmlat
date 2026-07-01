@@ -100,12 +100,13 @@ COPY OF REAGENT NOTE
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xtutu44dlq7mx4wc44resjmqvu&cover_image=true&theme=default&show_offline=false&background_color=231f1f&interchange=false&profanity=false&hide_remaster=false&bar_color=29652a&bar_color_cover=false">
   </a>
 </p>
 
+[_Мой Спотик_]
 
 
 <p align="right"
