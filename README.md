@@ -68,13 +68,13 @@ COPY OF REAGENT NOTE
 <img width="700" height="30" alt="tumblr_2939cbf0c5d7aa9fd8e8dc2b9b6e0fef_2d3d26b6_2048" src="https://github.com/user-attachments/assets/c691849a-2231-4e35-a9d1-b2ffe3a40c26" />
 
 # Список любимых игр.
-<br>• **Хорроры**: серия игр Outlast, Psychobreak(The Evil Within), (Sons of) The Forest, Endoparasitic, Yuppie Psycho, Sally Face, Fran Bow, Subnautica?
-<br>• **Шутеры**: COD, DOOM, Apex Legends, Titanfall, Atomic Heart, серия игр DMC, серия игр Metro.
-<br>• **Стелсы**: серия игр Metal Gear, (Tom Clancy’s)Splinter Cell, Deus Ex, Party Hard, Militsioner.
-<br>• **Открытые миры**: Horizon, Ghost of Tsushima, Watch Dogs, Cyberpunk 2077, Dying Light, RDR, Death Stranding, Don't Starve.
-<br>• **Инди**: серия игр Pathologic, Daniel Mullins Games, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats.
-<br>• **Головоломки**: серия игр Portal, The Stanley Parable, серия игр The Talos Principle, Viewfinder, The Last Guardian, World of Goo, Little Inferno, Papers Please, Superliminal, Faraway: Puzzle Escape.
-<br>• **Интерактивное кино**: Detroid, Havy Rain, TWD, LIS2, TWAU.
+<br>• ***Хорроры***: серия игр Outlast, Psychobreak(The Evil Within), (Sons of) The Forest, Endoparasitic, Yuppie Psycho, Sally Face, Fran Bow, Subnautica?
+<br>• ***Шутеры***: COD, DOOM, Apex Legends, Titanfall, Atomic Heart, серия игр DMC, серия игр Metro.
+<br>• ***Стелсы***: серия игр Metal Gear, (Tom Clancy’s)Splinter Cell, Deus Ex, Party Hard, Militsioner.
+<br>• ***Открытые миры***: Horizon, Ghost of Tsushima, Watch Dogs, Cyberpunk 2077, Dying Light, RDR, Death Stranding, Don't Starve.
+<br>• ***Инди***: серия игр Pathologic, Daniel Mullins Games, Undertale(deltarune), Half Life, ABZU, Cuphead, Stardew Valley, CotL, FNF, FNaF, PVZ, NITW, OFF, Just Shapes & Beats.
+<br>• ***Головоломки***: серия игр Portal, The Stanley Parable, серия игр The Talos Principle, Viewfinder, The Last Guardian, World of Goo, Little Inferno, Papers Please, Superliminal, Faraway: Puzzle Escape.
+<br>• ***Интерактивное кино***: Detroid, Havy Rain, TWD, LIS2, TWAU.
 <br>**Ещё ищу тимейтов в Apex Legends или The Outlast Trials(и мб в Cult of the Lamb если только у вас имеется..). Ранг и скил не важен, главное юмор и ваше желание.**
 <br>
 <p align="center"
